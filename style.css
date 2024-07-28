@@ -1,0 +1,192 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(210, 46%, 95%);
+}
+
+.center {
+    margin-top: 10;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 40px;
+    padding: 20px;
+}
+
+.Grid-item-item1 {
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+    border-radius: 15px;
+    width: 600px;
+    height: 280px;
+    text-align: center;
+    padding: 20px;
+}
+
+.firstimg img {
+    margin-left: -85%;
+    margin-top: 15px;
+    border-radius: 100%;
+}
+
+.imgName {
+    margin-left: -55%;
+    margin-top: -45px;
+}
+
+.bold {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.normaltxt {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.Grid-item-item2 {
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    border-radius: 15px;
+    width: 270px;
+    height: 280px;
+    text-align: left;
+    padding: 20px;
+    margin: 40px;
+}
+
+.secondimg img {
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 100%;
+}
+
+.img2Name {
+    margin-left: 80px;
+    margin-top: -45px;
+}
+
+.bold2 {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.normaltxt2 {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+
+.Grid-item-item3 {
+    background-color: hsl(0, 0%, 81%);
+    color: white;
+    border-radius: 15px;
+    width: 260px;
+    height: 640px;
+    text-align: left;
+    padding: 20px;
+    margin-top: 360px;
+}
+
+.img3Name {
+    margin-left: 80px;
+    margin-top: -45px;
+}
+
+.thirdimg img {
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 100%;
+}
+
+.bold3 {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.normaltxt3 {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+
+.Grid-item-item4 {
+    background-color: hsl(0, 0%, 81%);
+    color: white;
+    border-radius: 15px;
+    width: 270px;
+    height:300px;
+    text-align: left;
+    padding: 20px;
+    margin-top: 700px;
+    margin-left: -1330px;
+}
+
+.img4Name {
+    margin-left: 80px;
+    margin-top: -45px;
+}
+
+.fourthimg img {
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 100%;
+}
+
+.bold4 {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.normaltxt4 {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+
+.Grid-item-item5 {
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+    border-radius: 15px;
+    width: 590px;
+    height:300px;
+    text-align: left;
+    padding: 20px;
+    margin-top: 700px;
+    margin-left: 50px;
+}
+
+.img5Name {
+    margin-left: 80px;
+    margin-top: -45px;
+}
+
+.fifthimg img {
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 100%;
+}
+
+.bold5 {
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.normaltxt5 {
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
